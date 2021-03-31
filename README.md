@@ -27,7 +27,3 @@ yolo.py --help
 ## References
 
 1) [PyImageSearch YOLOv3 Object Detection with OpenCV Blog](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
-
-## License
-
-The code in this project is distributed under the MIT License.
